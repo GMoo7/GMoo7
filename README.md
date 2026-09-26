@@ -20,19 +20,19 @@ to prototype, build, test, and ship projects efficiently.
 ### 🏢 Northstar Consulting
 Professional multi-page business website — services, case studies, testimonials and a validated contact form.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-0E4F52?style=for-the-badge)](https://mustufashaikh.github.io/northstar-consulting/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-0E4F52?style=for-the-badge)](https://gmoo7.github.io/northstar-consulting/)
 [![Repo](https://img.shields.io/badge/Repo-24292e?style=for-the-badge&logo=github)](https://github.com/GMoo7/northstar-consulting)
 
 ### 🛍️ Luma Goods
 Full e-commerce concept store — product filters, colour variants, cart, promo codes and checkout.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-2B3326?style=for-the-badge)](https://mustufashaikh.github.io/luma-goods/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-2B3326?style=for-the-badge)](https://gmoo7.github.io/luma-goods/)
 [![Repo](https://img.shields.io/badge/Repo-24292e?style=for-the-badge&logo=github)](https://github.com/GMoo7/luma-goods)
 
 ### 🚀 FlowTask
 SaaS product concept — marketing site plus a working project dashboard with kanban boards, analytics and dark mode.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-0E4F52?style=for-the-badge)](https://mustufashaikh.github.io/flowtask/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-0E4F52?style=for-the-badge)](https://gmoo7.github.io/flowtask/)
 [![Repo](https://img.shields.io/badge/Repo-24292e?style=for-the-badge&logo=github)](https://github.com/GMoo7/flowtask)
 
 ## Background
