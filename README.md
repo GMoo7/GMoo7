@@ -12,6 +12,7 @@ to prototype, build, test, and ship projects efficiently.
 - 🤖 AI-Assisted Development
 - 🔎 SEO & Website Optimisation
 - 🛍️ E-commerce & TikTok Shop
+- ✨ Web Animation & Interactive UI
 - 🚀 Web Applications & SaaS
 - 📊 Data Science & Analytics
 
@@ -34,6 +35,12 @@ SaaS product concept — marketing site plus a working project dashboard with ka
 
 🔗 **Live demo:** [gmoo7.github.io/flowtask](https://gmoo7.github.io/flowtask/)  
 📁 **Code:** [github.com/GMoo7/flowtask](https://github.com/GMoo7/flowtask)
+
+### 🍽️ Olea Kitchen
+Animated restaurant website — live opening hours, pinned signature-dish showcase, filterable and printable menu, and table booking with calendar download.
+
+🔗 **Live demo:** [gmoo7.github.io/olea-kitchen](https://gmoo7.github.io/olea-kitchen/)  
+📁 **Code:** [github.com/GMoo7/olea-kitchen](https://github.com/GMoo7/olea-kitchen)
 
 ## Background
 
